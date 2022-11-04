@@ -19,7 +19,7 @@ Walkthrough this Video[https://drive.google.com/file/d/1HNi_pxG28rjiiyMAwuDx1F-P
 
 # HomePage
 
-![pic](./img/)
+![pic](./img/la.gif)
 
 # AccAcceptanceCriteria
 
